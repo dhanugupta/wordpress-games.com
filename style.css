@@ -1,0 +1,10 @@
+/* Related Games style.css version 1.0*/
+
+#related-games ol, ul {list-style: none outside none;}
+#related-games li a img {clear:both;float:left;width:60px;height:60px;margin: 0 11px 0 0;border:medium none;padding-top:5px;}
+#related-games li a { }
+#related-games li {clear:both;padding:4px;}
+#related-games .sitelink {float:right; }
+#related-games .sitelink img {width:80px; }
+
+
