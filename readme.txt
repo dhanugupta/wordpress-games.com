@@ -20,6 +20,6 @@ http://www.games.com/. This is a very nice solution for all those wanting to sha
 
 *Could not be simpler*
 1. Extract `related-games.zip`.
-2. Upload the `games-rss-plugin`-folder to your `/wp-content/plugins/` directory.
+2. Upload the `related-games`-folder to your `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Add the widget to your sidebar from Appearance->Widgets and configure the widget options.
